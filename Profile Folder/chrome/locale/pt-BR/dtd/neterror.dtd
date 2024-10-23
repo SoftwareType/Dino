@@ -1,4 +1,4 @@
-<!ENTITY neterror.nointernet    "[!!! Tλèřè ïƨ ñô Ìñƭèřñèƭ çôññèçƭïôñ !!!]">
-<!ENTITY neterror.cable         "[!!! Çλèçƙïñϱ ƭλè ñèƭωôřƙ çáβℓèƨ, ₥ôδè₥, áñδ řôúƭèř !!!]">
-<!ENTITY neterror.wifi          "[!!! Rèçôññèçƭïñϱ ƭô Wï-Fï !!!]">
-<!ENTITY neterror.try           "[!!! Tř¥: !!!]">
+<!ENTITY neterror.nointernet    "Não há conexão com a Internet">
+<!ENTITY neterror.cable         "Verificar o cabo de rede ou roteador">
+<!ENTITY neterror.wifi          "Redefinir o modem ou roteador">
+<!ENTITY neterror.try           "Tente:">
